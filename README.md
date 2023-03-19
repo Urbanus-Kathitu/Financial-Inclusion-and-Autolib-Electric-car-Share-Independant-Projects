@@ -1,4 +1,4 @@
-# Financial Inclusion and Autolib Electric car Share Projects
+# Financial Inclusion and Autolib Electric car Share Project Summary
 
 **2022_Autolib_Electric_Car_Share** dataset tasks us to understand electric car usage. We will work as a Data Scientist for the Autolib electric car-sharing service company that is located in Paris France which successfully deployed a public electric car-sharing program. The program, was initiated by the mayor of Paris, Bertrand Delaone who was searching for another traffic option to complement the city’s much-acclaimed bike sharing service to investigate a claim about the blue cars from the provided Autolib dataset.
 
